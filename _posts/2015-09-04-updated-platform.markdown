@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to Jekyll!
 date: 2015-09-04
-categories:
+categories: Jekyll
 status: publish
 type: post
 published: true
