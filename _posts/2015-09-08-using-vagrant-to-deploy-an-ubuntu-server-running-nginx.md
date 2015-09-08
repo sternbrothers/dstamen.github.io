@@ -12,7 +12,7 @@ The code can be found [here.](https://github.com/dstamen/Vagrant/tree/master/jek
 
 The bootstrap_linux_nginx.sh file runs the following commands to install NGINX. You can add commands to your file to automatically create your configuration and sites to publish automatically. By default this will just bring up the default nginx site.
 
-{% highlight shell %}
+{% highlight bash %}
 sudo apt-get install nginx -y
 sudo service nginx start
 update-rc.d nginx defaults
